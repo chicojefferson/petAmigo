@@ -73,7 +73,7 @@
                 <p>• Educação para adoção responsável</p>
             </div>
             <div class="container-image">
-                <img src="../img/time.png" alt="sobre-nos">
+                <img src="../img/grupoProjeto.png" alt="sobre-nos">
             </div>
         </div>
     </section>
