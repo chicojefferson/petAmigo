@@ -1,1 +1,2 @@
 Esse projeto está sendo realizado pelo alunos do curso de ADS Uninove Vila prudente no periodo do primeiro semestre de 2026.
+o projeto tem como objetivo a colaboração de ong na organização de adoção de animais resgatados.
